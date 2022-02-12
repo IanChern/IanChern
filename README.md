@@ -1,4 +1,5 @@
-https://visitor-badge.glitch.me/badge?page_id=ianchern.visitor-badge
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ianchern&left_color=green&right_color=red)
+
 
 Mr. Ian Reporting Here.
 - 👀 I’m interested in ...
